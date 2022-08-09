@@ -11,7 +11,7 @@ There are 4 different irc command.
 - /msg @nickname message -> it send a private message to a user who specify nickname in line
 - /list -> shows all available channels
 
-Class functions
+**Class functions**
 
 void send_message_to_channel(int channel_id, int user_id);
 
