@@ -1,5 +1,7 @@
 # ft_irc
 
+<image src="ft_irc/image.png" />
+
 It is about internet relay chat server through socket programming.
 
 Program run with port and password parameter.
