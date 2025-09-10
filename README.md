@@ -1,5 +1,13 @@
 # ft_irc
 
+<image src="ft_irc/imgs/image1.png" />
+<image src="ft_irc/imgs/image2.png" />
+<image src="ft_irc/imgs/image3.png" />
+<image src="ft_irc/imgs/image4.png" />
+<image src="ft_irc/imgs/image5.png" />
+<image src="ft_irc/imgs/image6.png" />
+<image src="ft_irc/imgs/image7.png" />
+
 <image src="ft_irc/image.png" />
 
 It is about internet relay chat server through socket programming.
